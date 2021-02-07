@@ -1,8 +1,7 @@
-### Hi there 👋
+Hi, I'm little blue. Nice to meet you. This profile is **work in progress**, so do expect to find broken links, blank html files and incomplete README's.
 
+I am a self-taught (have no formal CS education) programmer. I also am completely new to the industry. I am actively looking for a job (Remote, if possible) in Data Science / Machine Learning. If you'd like to try me out please send me a mail.
 <!--
-**littlebluepenguin/littlebluepenguin** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-
 Here are some ideas to get you started:
 
 - 🔭 I’m currently working on ...
