@@ -6,4 +6,5 @@ I'm a self-taught programmer. I also am completely new to the tech industry. I a
 
 ### Projects
 #### Machine Learning
-* [Ion Switching](https://github.com/littlebluepenguin/Ion-Switching)
+- **[Ion Switching](https://github.com/littlebluepenguin/Ion-Switching)**:
+A study of Kaggle competition. View the notebooks in a pretty format [here](https://nbviewer.jupyter.org/github/littlebluepenguin/Ion-Switching/tree/main/)
