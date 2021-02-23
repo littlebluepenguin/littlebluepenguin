@@ -12,4 +12,4 @@ A study of the [Ion Switching](https://www.kaggle.com/c/liverpool-ion-switching)
 
 
 ### Open Source Contributions
-**[Marlin](https://github.com/wilfredinni/marlin) terminal bookmark manager**: Wrote a small [shell script](https://github.com/wilfredinni/marlin/blob/master/marlin/scripts/marlin.sh) to make Marlin cross-platform solving inssue [#1](https://github.com/wilfredinni/marlin/issues/1)
+- **[Marlin](https://github.com/wilfredinni/marlin) terminal bookmark manager**: Wrote a small [shell script](https://github.com/wilfredinni/marlin/blob/master/marlin/scripts/marlin.sh) to make Marlin cross-platform solving inssue [#1](https://github.com/wilfredinni/marlin/issues/1)
