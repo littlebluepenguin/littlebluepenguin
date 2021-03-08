@@ -1,6 +1,8 @@
 ### About
 
-Hi, I'm little blue. Nice to meet you. I'm actively looking for a job -- remote, if possible -- in Data Science / Machine Learning. If you'd like to try me out, please send me a mail.
+Hi, I'm little blue. Nice to meet you. I'm on [Kaggle](https://www.kaggle.com/littlebluepenguin) too. 
+
+I'm actively looking for a job -- remote, if possible -- in Data Science / Machine Learning. If you'd like to try me out, please send me a mail.
 
 
 ### Projects
